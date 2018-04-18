@@ -1,0 +1,10 @@
+case.edu
+google.com
+amazon.com
+facebook.com
+youtube.com
+ox.ac.uk
+nytimes.com
+imdb.com
+wikipedia.org
+cnn.com
